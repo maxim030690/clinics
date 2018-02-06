@@ -1,0 +1,435 @@
+/* cover image */
+
+.cover-image-section {
+  background-color: #e9f1f3;
+
+}
+
+.cover {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #000;
+  opacity: 0.1;
+  z-index: 1000;
+}
+
+
+.cover-image-container {
+  background-color: #e9f1f3;
+
+  height: 400px;
+
+  ul {
+    line-height: 2em;
+  }
+
+  li {
+    i {
+      line-height: 1.8em;
+      color: $red;
+    }
+  }
+
+  .cover-image-text {
+    padding-top: 30px;
+  }
+
+  .button {
+    background-color: $red;
+
+    &:hover {
+      background-color: $red-hover;
+      //color: $dark-slate;
+    }
+
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+
+  h3 {
+    //padding: 20px 0;
+  }
+
+  .zipcode-input {
+    display: inline;
+    width: 125px;
+  }
+
+  .find-lab {
+    margin-bottom: 0;
+    background-color: $red;
+    font-weight: bold;
+    width: 175px;
+  }
+
+  @media #{$medium-up} {
+    background-color: #e9f1f3;
+    background-image: url('/doctor3.jpg');
+
+    background-repeat: no-repeat;
+    //background-position: 85% 0%;
+    background-position: right;
+
+    //background-size: cover;
+    //background-position: center;
+    //width: 100%;
+    //padding: 2% 15% 34.65% 15%;
+
+    .cover-image-text {
+      padding-top: 30px;
+      width: 70%;
+    }
+
+  }
+}
+
+/* homepage sections */
+.homepage-section {
+  padding: 30px 0px;
+
+  h3 {
+    padding: 20px 0;
+  }
+}
+
+/* for mission statement and city description */
+.homepage-short-text-section {
+  color: $white;
+  background-color: $blue;
+
+  h3 {
+    color: $white;
+  }
+}
+
+/* mission statement */
+.mission {
+  .clipboard {
+    width: 100px;
+  }
+}
+
+/* how it works */
+.homepage-how-it-works {
+  padding: 20px 0px;
+  //padding: 60px 10%;
+
+  //background-color: $light-grey;
+  background-color: $blue;
+  color: $white;
+
+  h5 {
+    color: $white;
+  }
+
+  .how-it-works-item {
+    @media #{$small-only} {
+      margin-bottom: 10px;
+    }
+  }
+
+  .how-it-works-icon {
+    //height: 244px;
+    max-height: 100px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+
+    max-width: 100px;
+
+    padding-right: 5px;
+  }
+
+
+}
+
+/* doctor recommended panel */
+.dr-recommended-panel {
+
+  .eight-test-panel {
+    background-color: $blue;
+    padding: 15px;
+    margin-bottom: 30px;
+    border-radius:5px;
+
+    h5, hr, p {
+      color: $white;
+    }
+
+    hr {
+      width: 25%;
+      height: 2px;
+      background-color: $white;
+      margin: 25px auto;
+    }
+
+    .disease-list {
+      background-color: $white;
+      color: $dark-grey;
+      text-align: center;
+      margin: 0 auto;
+      padding: 20px;
+
+      font-weight: bold;
+
+      .disease-column {
+        display: inline-block;
+        width: 100%;
+        text-align: left;
+
+        ul {
+          margin-bottom: 0;
+        }
+      }
+
+      .right {
+        margin-bottom: 15px;
+      }
+
+      .button {
+        background-color: $red;
+        font-weight: bold;
+        margin: 0;
+        font-size: 1.2em;
+
+        &:hover {
+          background-color: $red-hover;
+        }
+
+      }
+
+      @media #{$large-up} {
+        .disease-column {
+          width: 45%;
+        }
+
+        .left {
+          margin-bottom: 15px;
+        }
+      }
+    }
+
+  }
+
+  .panel-right {
+    position: relative;
+
+    > div {
+      margin-bottom: 30px;
+    }
+
+    .pricing {
+      width: 100%;
+      height: 225px;
+      background-color: $red;
+      border-radius:5px;
+      padding: 15px;
+      overflow: visible;
+
+      .pricing-top {
+        height: 50%;
+        background-color: $white;
+        padding: 15px;
+      }
+
+      .price-circle {
+        position: relative;
+        margin: 0 auto;
+        top: -25%;
+        width: 100px;
+        height: 100px;
+        border: 8px solid $red;
+        background: $white;
+        font-weight: bold;
+        vertical-align: middle;
+
+        .dollar-sign-and-price {
+          position: relative;
+          display: inline-block;
+          vertical-align: middle;
+          top: 50%;
+          transform: translateY(-50%);
+          margin: 0;
+
+          .dollar-sign {
+            vertical-align: super;
+          }
+
+          .price {
+            font-size: 2em;
+          }
+        }
+
+        @include border-radius-circle;
+      }
+
+      .pricing-tagline {
+        position: relative;
+        transform: translateY(-110%);
+      }
+    }
+  }
+
+  .order-test-if {
+    background-color: $blue;
+    padding: 15px;
+    border-radius:5px;
+
+    h5 {
+      color: $white;
+    }
+
+    .reasons {
+      background-color: $white;
+      padding: 10px;
+
+      ul {
+        margin-bottom: 0;
+      }
+    }
+
+    @media #{$large-up} {
+      position: absolute;
+      bottom: 0;
+      width: calc(100% - 30px);
+    }
+  }
+}
+
+/* patient recommended service */
+.patient-rec-service {
+  background-color: $light-grey;
+
+  aside {
+    margin-bottom: 30px;
+    color: $blue;
+
+    .quote {
+      font-style: italic;
+      font-weight: bold;
+      font-size: 1.1em;
+    }
+
+    .author {
+      font-size: 0.85em;
+    }
+  }
+}
+
+/* clinic locations map */
+.clinic-locations {
+  .map {
+    width: 100%;
+    height: 450px;
+  }
+
+  .lab-search {
+    padding-top: 30px;
+  }
+
+  .zip-search {
+    padding-top: 20px;
+
+    .zipcode-input {
+      display: inline-block;
+      width: 120px;
+      font-size: 1.2em;
+      height: 55px;
+    }
+
+    .find-lab {
+      background-color: $red;
+      vertical-align: top;
+      margin: 0 15px;
+      font-weight: bold;
+      font-size: 1.2em;
+    }
+  }
+}
+
+/* stats */
+.homepage-stat {
+  position: relative;
+  padding: 0 15px;
+
+  .stat-image-heading {
+    @media #{$large-up} {
+      height: 230px;
+
+      @include breakpoint(1256px) {
+        height: 200px;
+      }
+    }
+  }
+
+  @mixin stat-text-overlay {
+    position: absolute;
+    color: $white;
+    font-weight: bold;
+  }
+
+  .std-rate-num {
+    @include stat-text-overlay;
+    top: 90px;
+    left: calc(50% - 15px);
+    font-size: 2.5em;
+  }
+
+  .num-clinics {
+    @include stat-text-overlay;
+    width: 18px;
+    top: 15px;
+    left: calc(50% - 8px);
+  }
+
+  .female-stat {
+    @include stat-text-overlay;
+    top: 10px;
+    left: calc(50% - 50px);
+  }
+
+  .male-stat {
+    @include stat-text-overlay;
+    top: 10px;
+    left: calc(50% + 20px);
+  }
+}
+
+/* city and sexual health */
+.city-sexual-health {
+  background-color: $light-grey;
+
+  .sexual-health-section {
+    position: relative;
+    text-align: left;
+
+    h5 {
+      display: inline-block;
+      //line-height: 45px;
+
+      @media #{$medium-up} {
+        //line-height: 60px;
+      }
+    }
+
+    .icon-container {
+      position: absolute;
+      right: 100%;
+      width: 45px;
+      height: 45px;
+
+      .heading-icon {
+        width: 100%;
+        height: 100%;
+        padding-right: 10px;
+      }
+
+      @media #{$medium-up} {
+        width: 60px;
+        height: 60px;
+      }
+    }
+  }
+}

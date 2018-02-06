@@ -1,0 +1,81 @@
+// style red and bold links
+@mixin red-bold-link {
+  &, &:link, &:visited {
+    color: $red;
+    font-weight: bold;
+  }
+
+  &:hover {
+    color: $blue;
+  }
+}
+
+// light grey background
+.light-grey-bg {
+  background-color: $light-grey;
+}
+
+// mixin for circles
+@mixin border-radius-circle {
+  border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+// style all headers
+h1, h2, h3, h4, h5, h6 {
+  //text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  //line-height: 1em;
+}
+
+// style know your status section
+.know-your-status {
+  text-align: center;
+  padding-top: 25px;
+
+  h5 {
+    margin: 0;
+  }
+
+  .get-tested {
+    background-color: $red;
+    width: 250px;
+    margin: 15px auto;
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+}
+
+// mixin for boxes with colored borders
+@mixin box-with-colored-border($border-color) {
+  background-color: $border-color;
+  margin: 0 auto;
+  padding: 0.5em 1em 1em 1em;
+
+  h4 {
+    padding: 0.5em 0;
+    color: $white;
+  }
+
+  .bordered-box-content {
+    background-color: $white;
+    padding: 4%;
+    color: $dark-grey;
+
+    .get-tested-now-btn {
+
+      background-color: $red;
+
+      &:hover {
+        background-color: $red-hover;
+      }
+
+      width: 250px;
+      font-size: 1.2em;
+      margin: 1em 0 0 0;
+      font-weight: bold;
+    }
+  }
+}

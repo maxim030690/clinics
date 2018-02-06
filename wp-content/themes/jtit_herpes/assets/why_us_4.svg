@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="400.492px"
+	 height="178.902px" viewBox="0 0 400.492 178.902" enable-background="new 0 0 400.492 178.902" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<g>
+			
+				<rect x="185.332" y="41.994" fill="#FFFFFF" stroke="#5B5B5B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="179.412" height="113.235"/>
+			<polygon fill="#5B5B5B" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				185.332,41.994 275.037,111.111 364.744,41.994 			"/>
+			<polygon fill="#5B5B5B" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				364.361,155.229 305.037,87.997 364.361,41.994 			"/>
+			<polygon fill="#5B5B5B" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				185.332,155.229 240.619,84.593 185.332,41.994 			"/>
+			<polygon fill="#5B5B5B" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				364.361,155.229 305.037,87.997 275.037,111.111 240.619,84.593 185.332,155.229 			"/>
+			
+				<circle fill="#F1B903" stroke="#F1B903" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="364.361" cy="41.994" r="18.322"/>
+			
+				<text transform="matrix(1 0.0054 -0.0054 1 357.6504 51.6128)" fill="#FFFFFF" font-family="'NotoSans-Bold'" font-size="23.9616" letter-spacing="1">1</text>
+			<g>
+				<polygon fill="#2074A8" points="185.014,143.423 17.809,138.087 185.014,132.751 				"/>
+				<polygon fill="#2074A8" points="185.014,121.133 37.809,115.797 185.014,110.461 				"/>
+				<polygon fill="#2074A8" points="185.014,98.843 57.809,93.507 185.014,88.171 				"/>
+				<polygon fill="#2074A8" points="185.014,76.553 77.809,71.217 185.014,65.881 				"/>
+			</g>
+		</g>
+	</g>
+</switch>
+</svg>

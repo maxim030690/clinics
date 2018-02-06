@@ -1,0 +1,421 @@
+body{
+	font-family: 'Open Sans', arial;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1150px;
+    width: 100%;
+}
+.steps h3{
+	font-size: 24px;
+}
+.steps p{
+	font-size: 16px;
+}
+.slider-caption h1{
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 3em;
+	color: #3a9ecb;
+	/* text-transform: uppercase; */
+	margin-bottom: 0;
+	line-height: 100%;
+	text-align: left;
+}
+.slider-caption h3{
+	color: #333; font-size: 20px; font-weight: bold; 
+    padding-left: 15px;
+    padding-right: 15px;
+	margin-bottom: 0px;
+	text-align: left;
+}
+.slider-caption h4{
+
+	padding-left: 15px;
+	padding-right: 15px;
+	color: #dc4040;
+	font-size: 24px;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 10px;
+	line-height: 98% !important;
+}
+.slider-caption p{
+	line-height: 100%;
+	font-size: 18px;
+	color: #555;
+	text-transform: uppercase;
+	font-weight: normal;
+	text-align: center;
+	margin-top: 0;
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+.slider-caption button{
+	width: 260px;
+	height: 60px;
+	background: #dc4040;
+	color: #fff;
+	font-size: 22px;
+	text-transform: uppercase;
+	border:0;
+	margin-left: 10px;
+	margin-right: 10px;
+	transition:all .5s ease 0s;
+	-webkit-transition:all .5s ease 0s;
+	-moz-transition:all .5s ease 0s;
+	-o-transition:all .5s ease 0s;
+	-ms-transition:all .5s ease 0s;
+}
+.slider-caption button:hover{
+	background: #3a9ecb;
+}
+.slider-caption{
+	padding-bottom: 27px;
+	background: rgba(255, 255, 255, 0.7) none repeat scroll 0 0;
+    line-height: 100%;
+    margin-top: 30px;
+    margin-left: 160px;
+    max-width: 530px;
+    padding-top: 30px;
+    text-align: center;
+    text-shadow: none;
+    width: 100%;
+    height: 100%;
+}
+.slider-box{
+	background: url(../img/slider6.jpg) no-repeat 100% 100%;
+	background-position: top;
+	width: 100%;
+	margin: 0 auto;
+	height: 400px;
+}
+#pricing-btn:hover{
+	background: #dc4040;
+}
+#pricing-btn{
+	 transition: all 0.5s ease 0s;
+	padding: 10px 30px 10px 30px;text-transform: uppercase;background: #3a9ecb;color: #fff; font-size: 24px;
+}
+.panel-title > .small, .panel-title > .small > a, .panel-title > a, .panel-title > small, .panel-title > small > a {
+	color: #3a9ecb;
+}
+.about h4 {
+	margin-bottom: 0px;
+}
+.navbar-brand{
+	padding: 10px;
+}
+.headline{
+	color: #585f69;
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: normal;
+}
+.steps-v1__icon {
+    color: #fff;
+    font-size: 40px;
+    left: 18px;
+    position: absolute;
+    top: 18px;
+}
+.steps-v1__block {
+    background: #3a9ecb none repeat scroll 0 0;
+    border: 5px solid #14112c;
+    height: 80px;
+    left: 130px;
+    margin-top: -122px;
+    padding: 5px;
+    position: absolute;
+    top: 50%;
+    width: 80px;
+}
+.heading-sm li h3{
+	color: #fff;
+	padding-top: 10px;
+}
+.list-unstyled .steps-v1 .g-bg-dark-blue2 .g-no-mb li p{
+	color: #fff;
+}
+.g-bg-dark-blue1 {
+    background: #3a9dca none repeat scroll 0 0;
+}
+.panel-body{
+	color: #555;
+}
+.caption-list-w{
+	display: block;
+	list-style-type: none;
+	line-height: 100%;
+	text-align: left;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	padding-bottom: 10px;
+}
+.caption-list-w li{
+	list-style-type: none;
+	display: list-item;
+}
+.caption-list-w li+li{
+	padding-top: 10px;
+}
+.caption-list-w i{
+	color: #1fa67a;
+}
+.works-box{
+	width: 100%; max-width: 1400px;margin: 0 auto;
+}
+.text-center{
+	background: #3a9ecb none repeat scroll 0 0;
+}
+.faq-container{
+	padding-left: 10px; padding-right: 10px;margin: 0 auto; text-align: center;
+}
+.faq-8{
+	padding-right: 50px;height: 100%;background: #3a9ecb; height: auto;color: #fff; margin: 0 auto; text-align: center;
+}
+.faq-wrapper{
+	width: 100%; max-width: 1000px;margin: 0 auto;
+}
+.faq-wrapper h2{
+	font-size: 40px;margin-bottom: 0px;color: #ffffff;
+}
+.faq-wrapper h4{
+	font-size: 20px;margin-top: 0px; margin-bottom: 20px;color: #fff;
+}
+.feature-box{
+	margin-top: 10px;margin-bottom: 30px; background: #fdf0df; padding-bottom: 50px;
+}
+.feature-wrapper{
+	padding-left: 10px; padding-right: 10px;margin: 0 auto; text-align: center; margin-bottom: -20px;
+}
+.feature-content{
+	width: 100%; max-width: 1000px;margin: 0 auto; font-size: 20px;
+}
+.feature-content h2{
+	text-transform: none;text-align: center;font-size: 43px;color: #c38a3d;margin-top: 40px;line-height: 95% !important;
+}
+.feature-body{
+	text-align: left;padding-top: 5px;margin: 0 auto;font-size: 16px;
+	color: #444;width: 100%;max-width: 1200px;
+}
+.center-content{
+	margin: 0 auto; text-align: center;
+}
+.testimonial{
+	background: #eaf6d9;border-left: 10px solid #fff;border-right: 10px solid #fff;padding-bottom: 15px;
+}
+.testimonial h2{
+	padding-left: 0px !important;
+	color: #809c58; font-size: 37px;text-transform: none;padding: 0;
+}
+.testimonial h4{
+	margin-top: 85px;text-align: left; font-size: 200px; color: #b5c2a3;font-family: 'arial', san-serif;
+}
+.leftquote{
+   color: #b5c2a3;
+    font-family: "arial",san-serif;
+    font-size: 200px;
+    margin-bottom: -200px;
+    margin-top: -30px;
+    text-align: left;
+}
+.rightquote{
+   color: #b5c2a3;
+    font-family: "arial",san-serif;
+    font-size: 200px;
+    margin: -150px 0;
+    padding-bottom: 71px;
+    text-align: right;
+}
+#trust-marks{
+	width: 100%;margin-top: -100px; padding-bottom: 80px;
+}
+.test-quote{
+	width:80%;font-size: 24px; color: #263248;margin: -50px auto 15px;padding-left: 10px;
+    padding-right: 10px;
+}
+.copyright-body{
+	color: #fff;
+	font-size: 14px;
+	text-align: center;
+}
+.copyright-body a:hover{
+	color: #970909;
+}
+@media (max-width: 1200px){
+	.testimonial h2{
+		font-size: 34px !important;
+	}
+}
+@media (max-width: 998px) {
+		.faq-8{
+		padding-bottom: 10px;
+	}
+	.slider-caption h1, h2{
+		padding-left: 20px !important;
+	}
+	.slider-caption h1{
+		font-size: 35px !important;
+	}
+	.slider-caption h2{
+		font-size: 20px !important;
+	}
+	.slider-caption h3{
+		font-size: 22px !important;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 15px !important;
+	}
+	.slider-caption h1, h2, h3{
+		line-height: 100% !important;
+	}
+	.slider-caption{
+		padding-top: 20px;
+		margin-top: 20px;
+	}
+	.text-center{
+		background: #fff !important;
+	}
+	.faq-8{
+		padding-top: 10px;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.panel-group{
+		width: 95%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.testimonial h2{
+		padding-top: 20px !important;
+		font-size: 34px !important;
+		padding-left: 0px !important;
+	}
+	.leftquote{
+		margin-bottom: -220px;
+    margin-top: -60px;
+	}
+	.rightquote{
+		padding-bottom: 0px;
+		margin: -160px 0;
+	}
+	#trust-marks{
+		padding-bottom: 30px;
+		margin-top: 0px;
+	}
+}
+@media (max-width: 768px){
+	.leftquote{
+		margin-bottom: -220px;
+    	margin-top: -60px;
+	}
+	.rightquote{
+		padding-bottom: 0px;
+		margin: -160px 0;
+	}
+	.test-quote{
+		padding-left: 15px;
+    padding-right: 15px;
+	}
+}
+@media (max-width: 450px){
+	.caption-list-w li{
+		font-size: 16px !important;
+	}
+	.slider-caption h1{
+		font-size: 32px !important;
+	}
+	.slider-caption h4{
+		font-size: 26px !important;
+	}
+	.slider-caption h3{
+		font-size: 20px !important;
+	}
+	.steps h3{
+		font-size: 20px !important;
+	}
+}
+
+.feature-btn{
+	background: #c38a3d; color: #fff; padding-left: 40px; padding-right: 40px; font-size: 24px;
+}
+@media (max-width: 500px){
+		#trust-marks img{
+			padding-left: 0px;
+		}
+		#trust-marks{
+			margin-top: 30px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	.faq-wrapper h2{
+		margin-top: 80px !important;
+		padding-top: 20px !important;
+	}
+	.feature-btn{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.feature-content h2 {
+		font-size: 32px;
+		text-align: left;
+		padding-left: 0px !important;
+	}
+}
+@media (max-width: 480px){
+	.about h2 {
+    	margin-top: 30px !important;
+	}
+	.faq-wrapper h2{
+		font-size: 30px;
+		padding-top: 10px !important;
+
+	}
+	.test-quote{
+		padding-left: 15px;
+    	padding-right: 15px;
+    	padding-top: 80px;
+
+	}
+	.leftquote{
+		font-size: 130px;
+		padding-top: 40px;
+	}
+	.rightquote{
+		font-size: 130px;
+		padding-bottom: 120px;
+	}
+	.feature-btn{
+		font-size: 20px;
+	}
+	.about h2{
+		 margin-top: 0px !important;
+    padding-top: 0px !important;
+	}
+	.works-box h2{
+		padding-top: 30px !important;
+		margin-top: 60px !important; 
+	}
+	.testimonial h2{
+		font-size: 30px !important;
+		margin-top: 30px !important;
+    padding-top: 20px !important;
+	}
+}
+
+.contact-panel {
+  text-align:center;
+  background-color:#e9f6fc;
+  border-radius:5px;
+}
+
+.contact-panel h4 {
+  font-weight:bold;
+
+}

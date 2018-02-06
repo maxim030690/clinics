@@ -1,0 +1,283 @@
+.recommended-subheading {
+  font-weight: normal;
+  letter-spacing: 0.1em;
+}
+
+.eight-test-panel-pricing {
+  //width: 100%;
+
+  max-width: 300px;
+  margin: auto;
+
+  height: 240px;
+  background-color: $blue;
+  padding: 15px;
+  overflow: visible;
+
+  .pricing-top {
+    height: 50%;
+    background-color: $white;
+    padding: 15px;
+  }
+
+  .price-circle {
+    position: relative;
+    margin: 0 auto;
+    top: -25%;
+    width: 100px;
+    height: 100px;
+    border: 8px solid $blue;
+    background: $white;
+    font-weight: bold;
+    vertical-align: middle;
+
+    .dollar-sign-and-price {
+      position: relative;
+      display: inline-block;
+      vertical-align: middle;
+      top: 50%;
+      transform: translateY(-50%);
+      margin: 0;
+
+      .dollar-sign {
+        vertical-align: super;
+      }
+
+      .price {
+        font-size: 2em;
+      }
+    }
+
+    @include border-radius-circle;
+  }
+
+  .pricing-tagline {
+    position: relative;
+    top: -25%;
+    color: $white;
+
+    p {
+      margin-bottom: 0.5em;
+      font-weight: bold;
+    }
+  }
+}
+
+.order-now-btn {
+  background-color: $red;
+
+  &:hover {
+    background-color: $red-hover;
+  }
+
+
+  font-weight: bold;
+  font-size: 1.2em;
+  width: 250px;
+  margin: 15px 0;
+}
+
+
+.test-pricing-icons {
+  .test-pricing-icons-col {
+    .icon-and-heading {
+      display: block;
+
+      img {
+        height: 50px;
+      }
+    }
+  }
+}
+
+.test-options-section {
+  padding: 40px 0;
+
+  .eight-test-panel {
+    @include box-with-colored-border($blue);
+    margin-bottom: 40px;
+
+    .disease-list {
+      font-weight: bold;
+      color: $dark-slate;
+
+      width: 50%;
+      margin: 0 auto;
+
+      ul {
+        margin-bottom: 0;
+      }
+    }
+
+    hr {
+      width: 100%;
+      height: 1px;
+      background-color: $dark-grey;
+      border: none;
+    }
+
+    .test-option {
+      background-color: $light-grey;
+      display: inline-block;
+      padding: 0.5em;
+
+      input[type="checkbox"] {
+        margin-bottom: 0;
+      }
+
+      label {
+        font-size: 1em;
+        color: $dark-grey;
+      }
+
+      .price {
+        padding-left: 1em;
+        font-weight: bold;
+      }
+    }
+
+    .fda-approved-header {
+      margin-top: 30px;
+      margin-bottom: 20px;
+
+      @media #{$large-up} {
+        margin-top: 0;
+      }
+
+      .fda-approved-circle {
+        @include border-radius-circle;
+
+        display: inline-block;
+        background: $yellow;
+        width: 110px;
+        height: 110px;
+
+        .fda-approved-text {
+          position: relative;
+          color: $white;
+          vertical-align: middle;
+          top: 50%;
+          transform: translateY(-50%);
+          font-weight: bold;
+
+          .fda {
+            font-size: 1.7em;
+          }
+        }
+      }
+
+      .fda-heading-text {
+        font-weight: bold;
+        vertical-align: middle;
+        display: inline-block;
+        padding-left: 15px;
+      }
+    }
+  }
+
+  .patient-reviews-container {
+    .header {
+      background-color: $red;
+      padding: 1em;
+      //border: 1px solid $dark-grey;
+
+      h6 {
+        color: $white;
+        margin-bottom: 0;
+      }
+    }
+
+    .reviews {
+      padding: 1em 0;
+      border: 5px solid $medium-grey;
+
+      .orbit-container {
+        height: auto !important;
+
+        .orbit-slide {
+          max-height: 2000px !important;
+        }
+      }
+
+      .orbit-previous, .orbit-next {
+        color: $dark-grey;
+      }
+
+      .review {
+        padding: 2.5em;
+        max-height: 2000px !important;
+        height: auto !important;
+      }
+
+      .read-reviews {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .individual-tests {
+    @include box-with-colored-border($dark-slate);
+
+    .individual-test-option {
+      background-color: $light-grey;
+      display: inline-block;
+      padding: 0.5em;
+      margin: 0.5em;
+      width: 300px;
+
+      input[type="checkbox"] {
+        margin-bottom: 0;
+      }
+
+      label {
+        font-size: 1em;
+        color: $dark-grey;
+      }
+
+      .price {
+        padding-left: 1em;
+        font-weight: bold;
+      }
+    }
+  }
+}
+
+.test-pricing-questions {
+  padding: 5% 15%;
+
+  @media #{$medium-up} {
+    padding: 40px 15%;
+  }
+
+  .test-pricing-question {
+    position: relative;
+    text-align: left;
+
+    h5 {
+      display: inline-block;
+      line-height: 45px;
+
+      @media #{$medium-up} {
+        line-height: 60px;
+      }
+    }
+
+    .icon-container {
+      position: absolute;
+      right: 100%;
+      width: 45px;
+      height: 45px;
+
+      .heading-icon {
+        width: 100%;
+        height: 100%;
+        padding-right: 10px;
+      }
+
+      @media #{$medium-up} {
+        width: 60px;
+        height: 60px;
+      }
+    }
+  }
+}

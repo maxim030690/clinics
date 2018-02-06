@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="168px" height="189px"
+	 viewBox="0 0 168 189" enable-background="new 0 0 168 189" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<g>
+			<path fill="#FFFFFF" stroke="#5B5B5B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M134.182,162.957c0,8.05-7.111,14.569-15.879,14.569H31.589c-8.768,0-15.878-6.52-15.878-14.569V42.655
+				c0-8.047,7.11-14.566,15.878-14.566h86.714c8.768,0,15.879,6.519,15.879,14.566V162.957z"/>
+			<path fill="#5D5D5D" d="M123.676,155.288c0,7.021-5.844,12.71-13.057,12.71H39.277c-7.217,0-13.062-5.689-13.062-12.71V50.323
+				c0-7.017,5.846-12.706,13.062-12.706h71.342c7.213,0,13.057,5.689,13.057,12.706V155.288z"/>
+			<polygon fill="#FFFFFF" stroke="#5B5B5B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				94.411,17.844 94.411,11.474 55.479,11.474 55.479,17.844 49.133,17.844 49.133,40.632 100.758,40.632 100.758,17.844 			"/>
+			<polyline fill="none" stroke="#F1B903" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" points="
+				95.063,121.474 109.354,146.094 152.289,89.628 			"/>
+			<circle fill="#5D5D5D" cx="74.945" cy="19.344" r="4.469"/>
+		</g>
+	</g>
+</switch>
+</svg>

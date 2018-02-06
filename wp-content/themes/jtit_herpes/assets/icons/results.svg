@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="135.703px" height="178.902px" viewBox="0 0 135.703 178.902" enable-background="new 0 0 135.703 178.902"
+	 xml:space="preserve">
+<g>
+	<path fill="#5B5B5B" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M13.301,43.481
+		c0-7.589,5.047-13.736,11.268-13.735h61.533c6.221,0,11.266,6.146,11.266,13.735v113.422c0,7.588-5.045,13.734-11.268,13.734
+		H24.568c-6.221,0-11.268-6.146-11.268-13.734V43.481z"/>
+	<rect x="20.219" y="45.637" fill="#FFFFFF" stroke="#5B5B5B" stroke-miterlimit="10" width="70.23" height="97.162"/>
+	
+		<rect x="30.659" y="80.321" transform="matrix(1 0.0036 -0.0036 1 0.3383 -0.1905)" fill="#FFFFFF" stroke="#2074A8" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="45.885" height="28.961"/>
+	<polygon fill="#2074A8" points="30.711,80.239 53.59,97.998 76.596,80.404 	"/>
+	
+		<polygon fill="#2074A8" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		76.395,109.364 61.283,92.114 76.498,80.403 	"/>
+	
+		<polygon fill="#2074A8" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		30.607,109.2 44.812,91.185 30.711,80.239 	"/>
+	
+		<polygon fill="#2074A8" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		76.395,109.364 61.283,92.114 53.59,97.998 44.812,91.185 30.607,109.2 	"/>
+	
+		<circle fill="#F1B903" stroke="#F1B903" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="75.255" cy="80.191" r="7.148"/>
+	<g>
+		<path fill="#FFFFFF" d="M76.457,83.937l-1.41-0.013l0.035-3.861l0.02-0.634l0.029-0.694c-0.236,0.232-0.4,0.384-0.492,0.457
+			L73.865,79.8l-0.672-0.855l2.166-1.69l1.158,0.01L76.457,83.937z"/>
+	</g>
+	<circle fill="#FFFFFF" stroke="#5B5B5B" stroke-miterlimit="10" cx="39.68" cy="38.631" r="1.971"/>
+	<circle fill="#FFFFFF" stroke="#5B5B5B" stroke-miterlimit="10" cx="55.334" cy="156.647" r="7.449"/>
+	<path fill="#FFFFFF" d="M60.363,38.631c0,0.229-0.186,0.414-0.414,0.414H47.053c-0.229,0-0.414-0.185-0.414-0.414l0,0
+		c0-0.229,0.186-0.413,0.414-0.413h12.896C60.178,38.218,60.363,38.402,60.363,38.631L60.363,38.631z"/>
+	<g>
+		<path fill="none" stroke="#F1B903" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M106.641,38.379
+			c0,0,1.322-3.915-0.182-7.558c-1.73-4.186-7.986-10.032-15.096-5.918"/>
+		<path fill="none" stroke="#F1B903" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M113.836,39.354
+			c0,0,2.072-6.138-0.287-11.851c-2.711-6.568-12.521-15.734-23.67-9.284"/>
+		<path fill="none" stroke="#F1B903" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M121.305,38.648
+			c0,0,2.699-7.995-0.371-15.433c-3.533-8.553-16.309-20.488-30.824-12.09"/>
+	</g>
+</g>
+</svg>

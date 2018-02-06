@@ -1,0 +1,32 @@
+/*
+Theme Name: Herpes 
+Theme URI: jointoit.com
+Description: desscription
+Author: my name
+Author URI: ваш-URI
+Version: 1.0.1 29.12.2016 19:00
+*/
+
+body.logged-in{
+    margin-top: 30px;
+}
+
+body.customize-support{
+    margin-top: 30px;
+}
+
+.page-header {
+    margin: 0px;
+}
+
+.home-baner{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    width: 75rem;
+
+}
+
+.dollar-sign{
+	display: block !important;
+    margin-bottom: -35px !important;
+}

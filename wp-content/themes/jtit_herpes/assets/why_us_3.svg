@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="185.737px"
+	 height="178.902px" viewBox="0 0 185.737 178.902" enable-background="new 0 0 185.737 178.902" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<g>
+			<path fill="#5B5B5B" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M32.718,157.956c-8.049,0-14.568-7.111-14.568-15.879V55.361c0-8.768,6.52-15.877,14.568-15.877h120.303
+				c8.047,0,14.566,7.109,14.566,15.877v86.716c0,8.768-6.52,15.879-14.566,15.879H32.718z"/>
+			<g>
+				<circle fill="#FFFFFF" stroke="#5B5B5B" stroke-miterlimit="10" cx="92.869" cy="98.72" r="27.216"/>
+				<polygon fill="#DB4040" points="110.618,95.095 96.493,95.095 96.493,80.97 89.243,80.97 89.243,95.095 75.118,95.095 
+					75.118,102.345 89.243,102.345 89.243,116.47 96.493,116.47 96.493,102.345 110.618,102.345 				"/>
+			</g>
+			<path fill="none" stroke="#5B5B5B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M54.339,45.893c0,0-3.75-24.954,16.502-24.928l36.297-0.02c11.699,0.464,20.311,0.403,18.881,24.947"/>
+		</g>
+	</g>
+</switch>
+</svg>

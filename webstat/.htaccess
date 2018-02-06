@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/herpes.jointoit.com/webstat"
+AuthUserFile /var/www/jointoit/data/etc/557735.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

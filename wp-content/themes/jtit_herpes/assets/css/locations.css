@@ -1,0 +1,42 @@
+.inner h3{
+	color: #dc4040;
+	font-weight: bold;
+}
+#searchForm{
+	padding-top: 20px;
+}
+.searchform{
+	padding-bottom: 10px;
+}
+#map-canvas {
+        height: 100%;
+      }
+
+#states li > a{
+	color: #3a9ecb;
+}
+#states li > a:hover{
+	color: #dc4040;
+}
+#states {
+  -webkit-column-count: 6;
+  /* Chrome, Safari, Opera */
+
+  -moz-column-count: 6;
+  /* Firefox */
+
+  column-count: 6;
+}
+#stateList {
+    margin: 3em auto;
+}
+.container {
+    margin: 0 auto;
+    max-width: 1150px;
+    width: 100%;
+}
+h2 {
+    font-size: 28px;
+    font-weight: 300;
+    margin-bottom: 0.5em;
+}

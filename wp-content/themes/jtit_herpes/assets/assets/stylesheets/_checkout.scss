@@ -1,0 +1,142 @@
+.checkout-container {
+  background-color: $light-grey;
+  padding: 40px 10%;
+}
+
+#errors {
+  background-color: $red;
+}
+
+.checkout-section {
+  background-color: $blue;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 25px;
+  
+  h5 {
+    position: relative;
+    left: 10px;
+    color: $white;
+  }
+
+  .checkout-section-content {
+    background-color: $white;
+    width: 100%;
+    padding: 15px;
+
+    legend {
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: $dark-slate;
+    }
+
+    hr {
+      width: 100%;
+      height: 1px;
+      background-color: $dark-grey;
+      border: none;
+    }
+
+    input[type="text, email"], select {
+      width: 100%;
+      font-size: 0.875em;
+      height: 2.4375em;
+    }
+
+    button, .place-order-btn {
+      background-color: $red;
+      &:hover {
+        background-color: $red-hover;
+      }
+      font-weight: bold;
+    }
+
+
+    .remove-test-link, .remove-coupon-link {
+      background-color: transparent;
+    }
+
+    .required-field {
+      color: $red;
+    }
+  }
+
+
+  .zipcode-input {
+    display: inline-block;
+    width: 120px;
+  }
+
+  .search-zip {
+
+    vertical-align: inherit;
+
+  }
+
+  .test-centers-lab-list {
+    border: 10px solid $light-grey;
+  }
+
+}
+
+.checkout-cc-info {
+  .credit-cards li {
+    display: inline;
+  }
+
+  .cc-number {
+    width: 85%;
+  }
+
+  .cc-expiration {
+    display: inline;
+    width: 40%;
+  }
+
+  .cc-month {
+    display: inline;
+    width: 30% !important;
+  }
+
+  .cc-year {
+    display: inline;
+    width: 40% !important;
+  }
+
+  .cc-cvv {
+    width: 30%;
+  } 
+}
+
+.checkout-shopping-cart-items {
+  width: 100%;
+  text-align: left;
+
+  tbody {
+    border: none;
+  }
+
+  tr:nth-child(even) {
+    background-color: $white;
+  }
+}
+
+.terms-conditions {
+  padding: 0.5em 0.625em 1.5em;
+  
+  input[type="checkbox"] {
+    display: inline;
+    margin: 0;
+  }
+
+  label {
+    display: inline;
+  }
+}
+
+.place-order-btn {
+  text-align: center;
+}
+
+

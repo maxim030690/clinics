@@ -1,0 +1,19 @@
+@import 'settings';
+//@import 'foundation-sites/dist/motion-ui.css';
+
+// Foundation with flex grid
+@import 'foundation-sites/assets/foundation-flex';
+
+// Custom
+@import 'utility';
+@import 'header';
+@import 'homepage';
+@import 'footer';
+@import 'page';
+@import 'checkout';
+@import 'disease_info';
+@import 'how_it_works';
+@import 'tests_and_pricing';
+@import 'test_centers';
+@import 'why_us';
+@import 'catalog';

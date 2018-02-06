@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="85px" height="85px"
+	 viewBox="0 0 85 85" enable-background="new 0 0 85 85" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<g>
+			<circle fill="none" stroke="#496372" stroke-miterlimit="10" cx="42.5" cy="42.501" r="38.016"/>
+			<path fill="#DB4040" stroke="#DB4040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M57.226,60.914
+				c0,2.182-1.768,3.948-3.947,3.948H31.722c-2.18,0-3.947-1.767-3.947-3.948V28.313c0-2.181,1.768-3.947,3.947-3.947h21.557
+				c2.18,0,3.947,1.767,3.947,3.947V60.914z"/>
+			<path fill="#FFFFFF" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M54.614,58.836
+				c0,1.902-1.453,3.444-3.246,3.444H33.633c-1.794,0-3.247-1.542-3.247-3.444V30.392c0-1.901,1.453-3.443,3.247-3.443h17.735
+				c1.793,0,3.246,1.542,3.246,3.443V58.836z"/>
+			
+				<line fill="none" stroke="#DB4040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35.206" y1="36.503" x2="49.7" y2="36.503"/>
+			
+				<line fill="none" stroke="#DB4040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35.206" y1="42.167" x2="49.7" y2="42.167"/>
+			
+				<line fill="none" stroke="#DB4040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35.206" y1="47.832" x2="49.7" y2="47.832"/>
+			
+				<line fill="none" stroke="#DB4040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="35.206" y1="53.497" x2="49.7" y2="53.497"/>
+			<path fill="#DB4040" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M55.97,53.497
+				c0,0-1.85,3.041-5.076,5.21c0,0-0.184,6.885,5.025,10.233c0,0,4.941-3.349,5.127-10.42C61.046,58.521,58.837,57.647,55.97,53.497
+				z"/>
+			<path fill="#FFFFFF" stroke="#DB4040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M55.97,53.497
+				c0,0-1.85,3.041-5.076,5.21c0,0-0.184,6.885,5.026,10.233c0,0,0.021-0.014,0.05-0.035V53.497z"/>
+		</g>
+	</g>
+</switch>
+</svg>

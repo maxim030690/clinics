@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="85px" height="85px"
+	 viewBox="0 0 85 85" enable-background="new 0 0 85 85" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<circle fill="none" stroke="#496372" stroke-miterlimit="10" cx="42.5" cy="42.501" r="38.016"/>
+		<g>
+			
+				<rect x="27.349" y="26.317" fill="#DB4040" stroke="#DB4040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="30.001" height="21.857"/>
+			
+				<rect x="29.019" y="27.871" fill="#FFFFFF" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="26.829" height="18.75"/>
+			<polygon fill="#DB4040" stroke="#DB4040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				27.349,48.156 57.35,48.156 64.82,56.99 20.025,56.99 			"/>
+			<path fill="#DB4040" stroke="#DB4040" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.081,56.934
+				c-0.035,0.088-0.056,0.184-0.056,0.283v0.705c0,0.42,0.341,0.762,0.762,0.762h43.426c0.422,0,0.762-0.342,0.762-0.762v-0.705
+				c0-0.1-0.02-0.195-0.055-0.283H20.081z"/>
+			<polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				29.019,49.346 56.375,49.346 59.945,53.701 25.669,53.701 			"/>
+		</g>
+	</g>
+</switch>
+</svg>

@@ -1,0 +1,46 @@
+
+@font-face {
+    font-family: 'archer';
+    src: url('/fonts/archer-book-webfont.eot');
+    src: url('/fonts/archer-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/archer-book-webfont.woff') format('woff'),
+         url('/fonts/archer-book-webfont.ttf') format('truetype'),
+         url('/fonts/archer-book-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'archer';
+    src: url('/fonts/archer-bookitalic-webfont.eot');
+    src: url('/fonts/archer-bookitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/archer-bookitalic-webfont.woff') format('woff'),
+         url('/fonts/archer-bookitalic-webfont.ttf') format('truetype'),
+         url('/fonts/archer-bookitalic-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'archer';
+    src: url('/fonts/archer-medium-webfont.eot');
+    src: url('/fonts/archer-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/archer-medium-webfont.woff') format('woff'),
+         url('/fonts/archer-medium-webfont.ttf') format('truetype'),
+         url('/fonts/archer-medium-webfont.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'archer';
+    src: url('/fonts/archer-mediumitalic-webfont.eot');
+    src: url('/fonts/archer-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/archer-mediumitalic-webfont.woff') format('woff'),
+         url('/fonts/archer-mediumitalic-webfont.ttf') format('truetype'),
+         url('/fonts/archer-mediumitalic-webfont.svg') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}

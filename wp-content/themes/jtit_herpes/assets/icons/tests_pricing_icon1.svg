@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="250.127px"
+	 height="178.902px" viewBox="0 0 250.127 178.902" enable-background="new 0 0 250.127 178.902" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<g>
+			
+				<rect x="53.353" y="12.855" fill="#5B5B5B" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="141.996" height="103.45"/>
+			<rect x="61.257" y="20.209" fill="#FFFFFF" width="126.981" height="88.743"/>
+			<polygon fill="#5B5B5B" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+				53.353,116.221 195.349,116.221 230.701,158.03 18.689,158.03 			"/>
+			<path fill="#5B5B5B" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M18.953,157.767c-0.167,0.415-0.264,0.866-0.264,1.34v3.332c0,1.993,1.615,3.607,3.607,3.607H227.83
+				c1.992,0,3.607-1.614,3.607-3.607v-3.332c0-0.474-0.097-0.925-0.264-1.34H18.953z"/>
+			<path fill="#FFFFFF" stroke="#5B5B5B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+				M181.495,98.903c0,0.397-0.324,0.722-0.722,0.722H69.354c-0.397,0-0.722-0.324-0.722-0.722V30.258
+				c0-0.399,0.324-0.722,0.722-0.722h111.42c0.397,0,0.722,0.322,0.722,0.722V98.903z"/>
+			<path fill="#2074A8" d="M181.126,34.552v-4.293c0-0.399-0.322-0.722-0.722-0.722H68.986c-0.398,0-0.721,0.322-0.721,0.722v4.293
+				H181.126z"/>
+			<circle fill="#FFFFFF" cx="71.066" cy="32.103" r="1.167"/>
+			<circle fill="#FFFFFF" cx="75.864" cy="32.103" r="1.167"/>
+			<circle fill="#FFFFFF" cx="81.062" cy="32.103" r="1.167"/>
+			<polygon fill="#FFFFFF" points="61.257,121.853 190.731,121.853 207.635,142.467 45.402,142.467 			"/>
+			<g>
+				<path fill="#F1B903" stroke="#F1B903" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M98.692,53.593l-4.094,2.848l1.239,4.575l-4.015-2.741l-4.236,2.651l1.611-4.544l-3.857-2.935l5.012-0.067l1.853-4.466
+					l1.486,4.502L98.692,53.593z"/>
+				<path fill="#F1B903" stroke="#F1B903" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M115.29,53.593l-4.093,2.848l1.239,4.575l-4.016-2.741l-4.235,2.651l1.611-4.544l-3.857-2.935l5.012-0.067l1.852-4.466
+					l1.487,4.502L115.29,53.593z"/>
+				<path fill="#F1B903" stroke="#F1B903" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M131.889,53.593l-4.094,2.848l1.239,4.575l-4.015-2.74l-4.236,2.65l1.611-4.544l-3.856-2.935l5.011-0.067l1.853-4.466
+					l1.485,4.502L131.889,53.593z"/>
+				<path fill="#F1B903" stroke="#F1B903" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M148.486,53.593l-4.093,2.848l1.239,4.575l-4.015-2.74l-4.237,2.65l1.612-4.544l-3.857-2.935l5.012-0.067l1.852-4.466
+					l1.486,4.502L148.486,53.593z"/>
+				<path fill="#5D5D5D" stroke="#5D5D5D" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M165.085,53.593l-4.094,2.848l1.239,4.575l-4.016-2.74l-4.235,2.65l1.611-4.544l-3.857-2.935l5.013-0.067l1.851-4.466
+					l1.486,4.502L165.085,53.593z"/>
+				<path fill="#F1B903" stroke="#F1B903" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+					M160.203,53.257l-1.534-4.653l-1.962,4.73l-5.311,0.069l4.087,3.112l-1.707,4.812l4.487-2.808l1.939,1.325V53.257z"/>
+			</g>
+			
+				<rect x="73.372" y="66.896" fill="#F1B903" stroke="#F1B903" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="102.267" height="20.311"/>
+			<text transform="matrix(1 0 0 1 81.0293 82.6001)" fill="#FFFFFF" font-family="'NotoSans-Bold'" font-size="14.4867">#1 ONLINE</text>
+		</g>
+	</g>
+</switch>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="214.298px"
+	 height="178.902px" viewBox="0 0 214.298 178.902" enable-background="new 0 0 214.298 178.902" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<path fill="#5B5B5B" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M16.646,78.054
+			c0,0,17.887,53.65,66.23,69.655c25.25,8.359,36.541-5.709,39.967-9.135c3.424-3.426,6.219-19.632,4.566-22.541
+			c-1.654-2.909-34.734-12.202-37.684,0c-3.557,14.719-15.982,9.432-27.402,0c-11.422-9.432-26.266-29.985-17.129-37.979
+			c9.135-7.994,10.775-9.321,3.424-28.547c-6-15.69-9.135-12.561-9.135-12.561S9.794,41.514,16.646,78.054z"/>
+		<path fill="none" stroke="#5B5B5B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M121.134,131.979c4.422,0.56,10.443,1.858,14.588-0.682c2.984-1.83,15.207-9.73,6.146-14.68c-5.775-3.154-9.32,6.447-7.75,10.908
+			c3.064,8.71,12.531,6.393,19.225,4.344c4.047-1.238,8.031-4.007,8.596-8.664c0.408-3.368-0.184-5.516-3.887-4.648
+			c-7.729,1.809-4.371,11.73,0.783,14.371c8.75,4.482,22.293-3.896,26.438-12.165c3.848-7.675-4.191-12.302-6.684-5.447
+			c-2.725,7.496,8.062,7.435,11.619,4.126c5.695-5.297,11.73-16.434,7.689-23.919c-2.328-4.313-11.807-6.813-9.891,0.183
+			c1.574,5.753,7.668,1.31,9.229-1.777c2.631-5.196-0.467-7.995-1.1-12.449"/>
+	</g>
+</switch>
+</svg>

@@ -1,0 +1,38 @@
+.disease-info-section {
+  padding: 35px 15%; 
+}
+
+.disease-tests-and-pricing {
+  @include box-with-colored-border($dark-grey);
+  width: 90%;
+
+  .bordered-box-content{
+    .test-option {
+      display: inline-block;
+      padding: 0.5em;
+      background-color: $light-grey;
+
+      input[type="radio"] {
+        margin-bottom: 0;
+      }
+
+      label {
+        font-size: 1em;
+        color: $dark-grey;
+      }
+
+      .price {
+        padding-left: 1em;
+        font-weight: bold;
+      }
+    }
+  }
+}
+
+.disease-icon {
+  width: 20%;
+}
+
+.disease-info-heading {
+  padding-bottom: 0.8em;
+}

@@ -1,0 +1,25 @@
+// Place all the styles related to the catalog controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.catalog-nav {
+  border:1px solid $blue;
+  margin:7px 5px;
+  border-radius:5px;
+}
+
+.catalog-content {
+	//margin-left:.1em;
+}
+
+.callout {
+	border-radius:5px;
+}
+
+ul.panel-list {
+	list-style-type:none;
+
+	li {
+	  font-size:.75em;
+	}
+}

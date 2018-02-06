@@ -1,0 +1,161 @@
+body {
+  background-color:#E4E8EB;
+}
+
+.page-header h1 {
+  color:#164a7a;
+}
+
+.admin .panel {
+  background-color:#34495e !important;
+  padding:5px 9px;
+  border-radius:0px;
+}
+
+.admin .panel label {
+  color:#b4b4b4;
+}
+
+.admin .btn {
+  border-radius:0px;
+  background-color:#164a7a;
+}
+
+.navbar img {
+  height:25px;
+}
+
+.admin table {
+  background-color: #ecf0f1;
+}
+
+span a {
+  text-decoration:none;
+  color:white;
+}
+
+.edit-test-form {
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+.marquee-container {
+  height: 50px; 
+ overflow: hidden;
+ position: relative;
+}
+
+.marquee-container h1 {
+font-size: 3em;
+ color: limegreen;
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ line-height: 50px;
+ text-align: center;
+ /* Starting position */
+ -moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);  
+ transform:translateX(100%);
+ /* Apply animation to this element */  
+ -moz-animation: example1 15s linear infinite;
+ -webkit-animation: example1 15s linear infinite;
+ animation: example1 15s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes example1 {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes example1 {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
+}
+@keyframes example1 {
+ 0%   { 
+ -moz-transform: translateX(100%); /* Firefox bug fix */
+ -webkit-transform: translateX(100%); /* Firefox bug fix */
+ transform: translateX(100%);     
+ }
+ 100% { 
+ -moz-transform: translateX(-100%); /* Firefox bug fix */
+ -webkit-transform: translateX(-100%); /* Firefox bug fix */
+ transform: translateX(-100%); 
+ }
+}
+}
+
+.panel-heading {
+  
+}
+.panel-heading h3 {
+  text-align:center;
+  text-transform:uppercase;
+  font-weight:300;
+  color:#fff;
+}
+
+.panel {
+  background-color:#34495e;
+}
+
+.panel-body h2 {
+  text-align:center;
+  text-align:center;
+  font-size:64px;
+  color:#2ecc71;
+}
+
+table .domain-1 {
+  font-weight:bold;
+  font-size:16px;
+  color:#16a085;
+}
+table .domain-2 {
+  font-weight:bold;
+  font-size:16px;
+  color:#2980b9;
+}
+table .domain-3 {
+  font-weight:bold;
+  font-size:16px;
+  color:#16a085;
+}
+
+table thead tr th {
+  text-align:center;
+  font-size:1.3em;
+  font-weight:700;
+}
+
+table td {
+  text-align:center;
+}
+
+table ul li {
+  list-style-type:none;
+}
+
+table .total {
+  font-size:30px;
+  color:#95a5a6;
+}
+
+table .comission {
+  font-size:30px;
+  color:#27ae60;
+}
+
+table .status {
+  font-size:30px;
+  color:#2980b9;
+}
+table {
+  background-color:#ecf0f1;
+}
+
+.panel-body .commission-total {
+  font-size:24px;
+  color:#16a085;
+}

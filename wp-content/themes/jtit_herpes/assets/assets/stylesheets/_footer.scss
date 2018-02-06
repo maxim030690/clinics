@@ -1,0 +1,52 @@
+.footer {
+
+  .sitemap-container {
+    background-color: $blue;
+    color: $white;
+
+    .sitemap {
+      padding: 60px 3%;
+
+      h4 {
+        margin-bottom: 20px;
+        color: $white;
+      }
+
+      a {
+        color: $white;
+
+        &:hover {
+          color: $yellow;
+        }
+      }
+
+      ul {
+        line-height: 2;
+
+        .contact-icon {
+          padding-right: 10px;
+        }
+
+        @media #{$large-up} {
+          .addr-second-line {
+            margin-left: 24px;
+          }
+        }
+      }
+
+      .contact {
+        @media #{$large-up} {
+          text-align: left;
+        }
+      }
+    }
+  }
+
+  .footer-bar {
+    padding: 20px 0%;
+
+    .social-media-icon {
+      padding: 0 5%;
+    }
+  }
+}
